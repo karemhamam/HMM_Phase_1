@@ -18,9 +18,9 @@
 
 /* **************** macros section start *************** */
 
-#define HEAP_SIZE 1024 * 1024                               // 1 MB heap size.
+#define HEAP_SIZE (1024 * 1024)
 
-#define BLOCK_HEADER_SIZE sizeof(block_header)              // difine the size of block header.
+#define BLOCK_HEADER_SIZE sizeof(block_header)
 
 /* **************** macros section End *************** */
 
