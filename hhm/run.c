@@ -14,7 +14,7 @@
 
 /* **************** Include section End *************** */
 
-#define NUM_ALLOCS (100 )                            // define the number of allocations.
+#define NUM_ALLOCS (100)                             // define the number of allocations.
 #define MAX_ALLOC_SIZE (1024)                        // define the max. allocation size.
 
 /* **************** main section start *****************/
