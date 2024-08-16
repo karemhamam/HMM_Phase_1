@@ -51,6 +51,9 @@ The Heap Memory Manager (HMM) is a simple implementation of dynamic memory alloc
 
 #### Flowchart for `HmmFree`
 
+![HmmFree](https://github.com/user-attachments/assets/f81c6cd0-258c-4399-846b-2b74eff940d6)
+
+
 ## Installation
 
 1. Clone the repository and compile the code: git clone (https://github.com/karemhamam/HMM_Phase_1/tree/master)
